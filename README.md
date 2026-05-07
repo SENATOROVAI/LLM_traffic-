@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="traffic-analyzer/gifs/ta_logo.png" width="120" alt="Traffic Analyzer logo" />
+  <img src="ta_logo.png" width="120" alt="Traffic Analyzer logo" />
 
 # Traffic Analyzer
 
